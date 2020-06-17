@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Quarantine Solutions
 
 You can use the [editor on GitHub](https://github.com/scvdss/Qs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
